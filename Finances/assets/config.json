@@ -1,0 +1,310 @@
+{
+  "name": "",
+  "css_prefix_text": "",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "30b79160618d99ce798e4bd11cafe3fe",
+      "css": "food",
+      "code": 61685,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "77ebb6724b6840a924440dbfa34df3c3",
+      "css": "tshirt",
+      "code": 62803,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "a34dfc06aa18e74e6073e32ef0f24cb6",
+      "css": "pump_soap",
+      "code": 59392,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "f5dbc933299a579b3a1fb0702082c992",
+      "css": "phone_iphone",
+      "code": 59393,
+      "src": "material"
+    },
+    {
+      "uid": "c2314ed1d2314b89f9285c53bcbf2548",
+      "css": "child",
+      "code": 61870,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "656b3512c2b4defd5a6d4e95fbc21065",
+      "css": "gift",
+      "code": 61547,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "40004c6932c066a9a108efda46358f72",
+      "css": "spa",
+      "code": 59394,
+      "src": "material"
+    },
+    {
+      "uid": "2f347bb985ef64c3ec82cd51b92b6baf",
+      "css": "tools",
+      "code": 63449,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "5bb103cd29de77e0e06a52638527b575",
+      "css": "wrench",
+      "code": 59395,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "5da59f89dd294fa4475a7cdbe3cd3145",
+      "css": "account_balance",
+      "code": 59396,
+      "src": "material"
+    },
+    {
+      "uid": "331aa73b20cb3e876f0409f89c828920",
+      "css": "house_damage",
+      "code": 63217,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "71f905d8fda639701b4127de4b0bab67",
+      "css": "key",
+      "code": 61572,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "085da0b82c06b77ff5844fe087df6672",
+      "css": "local_laundry_service",
+      "code": 59397,
+      "src": "material"
+    },
+    {
+      "uid": "dfc97263d6458ea4cf288c85543325b8",
+      "css": "directions_bus",
+      "code": 59398,
+      "src": "material"
+    },
+    {
+      "uid": "63af7ffdab0d3546333634c63554bb82",
+      "css": "fuel",
+      "code": 59417,
+      "src": "maki"
+    },
+    {
+      "uid": "8edaefd94639c91605b18d3183eb5b12",
+      "css": "coins",
+      "code": 62750,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "aaabd6ea6bc059534fe9d63454fc8b47",
+      "css": "parking",
+      "code": 62784,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "1ba4d493f3c25fddcdc2f4e78121998c",
+      "css": "id_card",
+      "code": 62146,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "c2388bda9ba41a5b88ac09adb6a5c089",
+      "css": "dumbbell",
+      "code": 62539,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "8b862df2e1f316954242d7117d6b1343",
+      "css": "wine_bottle",
+      "code": 63279,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "f2600038cee14a5eaad6d3ae5a3d5119",
+      "css": "book",
+      "code": 61485,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "9ce617aa240b002e8c16af41f1bf3364",
+      "css": "hands_helping",
+      "code": 62660,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "ef74ff62feda486fd414410e782b598a",
+      "css": "graduation-cap",
+      "code": 59400,
+      "src": "entypo"
+    },
+    {
+      "uid": "24c187947d706d5cfa172df53eecec69",
+      "css": "healing",
+      "code": 59401,
+      "src": "material"
+    },
+    {
+      "uid": "d73eceadda1f594cec0536087539afbf",
+      "css": "heart",
+      "code": 59402,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "ab7d8f416f03aa8e59908ea4f1c79f70",
+      "css": "palm_tree",
+      "code": 59990,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "bc61ebcf2f5d8d08b1e9e62167df7617",
+      "css": "birthday",
+      "code": 61949,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "7d2156f8b0fafd99c0293dfc99600865",
+      "css": "dice",
+      "code": 62754,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "1a86e41b4d6626d8a91602f0fe39955f",
+      "css": "live_tv",
+      "code": 59403,
+      "src": "material"
+    },
+    {
+      "uid": "0b55fe7a62b6a64765295b6d5e842414",
+      "css": "flowers",
+      "code": 59854,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "cd4bfdae4dc89b175ff49330ce29611a",
+      "css": "wifi",
+      "code": 61931,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "9f7e588c66cfd6891f6f507cf6f6596b",
+      "css": "phone",
+      "code": 59404,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "ae3so8q0b0n2h8esv9flua2nmwswa8fd",
+      "css": "mail",
+      "code": 59405,
+      "src": "modernpics"
+    },
+    {
+      "uid": "0133387f2069a1b3168942b84d81dd3a",
+      "css": "gamepad",
+      "code": 61723,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "dcedf50ab1ede3283d7a6c70e2fe32f3",
+      "css": "chat",
+      "code": 59406,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "212ab54aac31030950fec3e2448ebee9",
+      "css": "money",
+      "code": 59407,
+      "src": "modernpics"
+    },
+    {
+      "uid": "b8e88705f42bd79580be828233c65da0",
+      "css": "money-1",
+      "code": 59408,
+      "src": "linecons"
+    },
+    {
+      "uid": "2e7c67db76849147d16a6763d07a03a9",
+      "css": "police",
+      "code": 59435,
+      "src": "maki"
+    },
+    {
+      "uid": "17bddf8c9ea5dc5b8e1f33c936d08c1a",
+      "css": "ticket",
+      "code": 59409,
+      "src": "typicons"
+    },
+    {
+      "uid": "fde07aabee051909179a851d5b722e74",
+      "css": "file_invoice_dollar",
+      "code": 62833,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "a956d3f5a0eb36f70f3883f1d598bc45",
+      "css": "comment_dollar",
+      "code": 63057,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "5f5af0ab92f103238ff37eaa122dca7d",
+      "css": "collections_bookmark",
+      "code": 59410,
+      "src": "material"
+    },
+    {
+      "uid": "7fde84f9b0dff3b64d7ba983adac872c",
+      "css": "car",
+      "code": 61881,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "9937d762aee170b7350b15dd02dd34a3",
+      "css": "cab",
+      "code": 59399,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "3b93a137416058e68caadc04f667fd26",
+      "css": "money_check",
+      "code": 62780,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "f992dbb277d11f43496c58c1c53a0dfc",
+      "css": "baby",
+      "code": 63356,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "e9f1a4e6968111eab72aacfdce5a3d9f",
+      "css": "verified",
+      "code": 62370,
+      "src": "octicons"
+    },
+    {
+      "uid": "5559f5ccb071d6d34d2c1ad0e0a88ad2",
+      "css": "percent",
+      "code": 62101,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "jskdfgyhjwd003ndercv4r08h0ai3dfg",
+      "css": "loop-alt",
+      "code": 59411,
+      "src": "typicons"
+    },
+    {
+      "uid": "1d5b5e1bc01228d6b4cad17449df88f8",
+      "css": "money_bill_alt",
+      "code": 62417,
+      "src": "fontawesome5"
+    }
+  ]
+}
